@@ -1,3 +1,5 @@
+11
+aws sts get-caller-identity
 12 cls                                                                                                                                         
   13 terraform init                                                                                                                              
   14 terraform validate                                                                                                                          
